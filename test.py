@@ -1,1 +1,1 @@
-print ("this is python project" )
+print ("this is test project" )
